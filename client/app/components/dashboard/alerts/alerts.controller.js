@@ -9,7 +9,7 @@ export default class AlertsController {
       {
         type: 'error',
         ts: '2015-04-17 17:00:01',
-        description: 'Trade Services connection lost.'
+        description: 'Trade Services connection losted.'
       },
       {
         type: 'warning',
